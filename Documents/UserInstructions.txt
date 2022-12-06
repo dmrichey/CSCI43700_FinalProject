@@ -1,0 +1,10 @@
+An executable of the godot project is included in the Magic Tower folder and can be run directly.
+
+The godot project itself is also included in the Magic Tower folder.
+
+Controls - 
+
+Move Left - Left Arrow			Jump - Z
+Move Right - Right Arrow		Melee Attack - X
+Aim - Arrow Keys			Cast Spell - C
+Lock Movement - Left Control		Cast Super - V (Not Implemented)
